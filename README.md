@@ -1,5 +1,5 @@
 BJJ Pose and Gesture Recognition
-
+ 
 This project is a real-time pose and hand gesture recognition system tailored for Brazilian Jiu-Jitsu (BJJ) training and scoring. Using computer vision and machine learning technologies, the application processes video feeds to identify poses and gestures, and then maps these to predefined BJJ scoring categories.
 
 Key Features:
